@@ -1,0 +1,23 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Файлы IDE
+.vscode/
+.idea/
+
+# Лог‑файлы
+*.log
+
+# Конфигурации
+.env
+
+# Другие
+*.tmp
+Thumbs.db
